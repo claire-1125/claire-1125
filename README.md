@@ -1,5 +1,11 @@
-Hello Everyone 👋  
-👩‍💻 I’m currently learning Machine Learning, Artifitial Intelligence (especially Computer Vision 💻👀)
+### Hello Everyone 👋  
+
+## 🙆‍♀️ Interests
+
+- Machine Learning  
+- Artifitial Intelligence (especially Computer Vision 💻👀)
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **claire-1125/claire-1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
