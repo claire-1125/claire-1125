@@ -1,4 +1,4 @@
-Hello Everyone 👋
+Hello Everyone 👋  
 👩‍💻 I’m currently learning Machine Learning, Artifitial Intelligence (especially Computer Vision 💻👀)
 
 <!--
