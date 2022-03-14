@@ -3,7 +3,9 @@
 ## 🙆‍♀️ Interests
 
 - Machine Learning  
-- Artifitial Intelligence (especially Computer Vision 💻👀)
+- Artifitial Intelligence 
+  - Computer Vision 💻👀
+  - Recommender System 💻:heart:
 
 
 ## 👩‍💻 Skills
