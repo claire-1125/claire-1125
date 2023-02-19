@@ -1,12 +1,10 @@
 ## 🙆‍♀️ Interests
-
-- Machine Learning  
-- Artifitial Intelligence 
+- Artifitial Intelligence (Machine Learning, Deep Learning)
   - Computer Vision 💻👀
   - Recommender System 💻:heart:
 
 
-## 👩‍💻 Skills
+## 👩‍💻 Technical Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=PyTorch&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 
 
