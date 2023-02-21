@@ -4,6 +4,9 @@
 - Sookmyung Women's University (2017.03 ~ 2021.08)  
   - Bachelor of Engineering in Applied Physics, IT Engineering (응용물리, IT공학)
 
+## 📑 Resume
+[Would you like to know more?](https://claire1125.notion.site/Resume-JeongBeen-Seo-9f7717e05b3e4de4b7235ab8426e9467)
+
 <!--## Portfolio
 Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa467aae6c6d15af0931c9)-->
 
