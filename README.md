@@ -1,8 +1,25 @@
+# JeongBeen Seo 
+
+## 👩‍🎓 School
+- Sookmyung Women's University (2017.03 ~ 2021.08)  
+  - Bachelor of Engineering in Applied Physics, IT Engineering (응용물리, IT공학)
+
+<!--## Portfolio
+Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa467aae6c6d15af0931c9)-->
+
 ## 🙆‍♀️ Interests
 - Artifitial Intelligence (Machine Learning, Deep Learning)
   - Computer Vision 💻👀
   - Recommender System 💻:heart:
 
+## 🚶‍♀️ Relevant Experiences
+- 2021.08 ~ 2021.10 포스코 청년 AI·Big Data 아카데미
+- 2022.01 ~ 2022.06 네이버 AI Tech 부스트캠프 (추천 시스템)
+- 2022.07 ~ 2022.12 패스트캠퍼스 DT교육팀 실습조교
+
+<!-- ## Awards 🏆
+- 🥈 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
+- 🥇 2022.02  SUAPC 2022 Winter (2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회) (1위 / 63팀, 현대 auto e;var sang;) -->
 
 ## 👩‍💻 Technical Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=PyTorch&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
