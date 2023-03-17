@@ -15,6 +15,8 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
 - Artifitial Intelligence (Machine Learning, Deep Learning)
   - Computer Vision 💻👀
   - Recommender System 💻:heart:
+- Technical Writing
+- IT Service product Managing
 
 ## 🚶‍♀️ Relevant Experiences
 - 2021.08 ~ 2021.10 포스코 청년 AI·Big Data 아카데미
