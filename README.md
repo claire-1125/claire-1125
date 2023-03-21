@@ -16,7 +16,7 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
   - Computer Vision 💻👀
   - Recommender System 💻:heart:
 - Technical Writing
-- IT Service product Managing
+- IT Service Product Managing
 
 ## 🚶‍♀️ Relevant Experiences
 - 2022.07 ~ 2022.12 패스트캠퍼스 DT교육팀 실습조교
