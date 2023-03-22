@@ -19,6 +19,7 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
 - IT Service Product Managing
 
 ## 🚶‍♀️ Relevant Experiences
+- 2023.03 ~ 가짜연구소 6기 러너: LightGBM 온라인 문서 번역
 - 2022.07 ~ 2022.12 패스트캠퍼스 DT교육팀 실습조교
 - 2022.01 ~ 2022.06 네이버 AI Tech 부스트캠프 (추천 시스템 트랙)
 - 2021.08 ~ 2021.10 포스코 청년 AI·Big Data 아카데미
