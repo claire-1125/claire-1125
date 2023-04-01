@@ -28,23 +28,5 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
   - Bachelor of Engineering in Applied Physics, IT Engineering (응용물리, IT공학)
 
 ## My Life's Map
-<!-- ![My Life's Map](./claire-life-map.png)-->
-<img src="./claire-life-map.png" width="100%" height="100%">
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/LpcJCUoafNUg5QFApS4sqh"></iframe>
 
-<!-- ## Awards 🏆
-- 🥈 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
-- 🥇 2022.02  SUAPC 2022 Winter (2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회) (1위 / 63팀, 현대 auto e;var sang;) -->
-
-<!--
-**claire-1125/claire-1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
