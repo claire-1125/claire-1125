@@ -28,5 +28,5 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
   - Bachelor of Engineering in Applied Physics, IT Engineering (응용물리, IT공학)
 
 ## My Life's Map
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/LpcJCUoafNUg5QFApS4sqh"></iframe>
+[My Life's Map](https://whimsical.com/my-life-s-map-LpcJCUoafNUg5QFApS4sqh)
 
