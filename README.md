@@ -28,8 +28,8 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
   - Bachelor of Engineering in Applied Physics, IT Engineering (응용물리, IT공학)
 
 ## My Life's Map
-<!-- ![My Life's Map]() -->
-<!-- <img src="이미지 URL" width="?%" height="?%"> -->
+<!-- ![My Life's Map](./claire-life-map.png)-->
+<img src="./claire-life-map.png" width="100%" height="100%">
 
 <!-- ## Awards 🏆
 - 🥈 2021.08  SUAPC 2021 Summer (2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회) (2위 / 56팀, 현대오토Forever상)
