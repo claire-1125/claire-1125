@@ -15,7 +15,6 @@ Notion Link : [Click here](https://suave-phalange-86d.notion.site/6e962c83eaaa46
   - Computer Vision 💻👀
   - Recommender System 💻:heart:
 - Technical Writing
-- IT Service Product Managing
 
 ## 👩‍💻 Technical Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=PyTorch&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
