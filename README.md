@@ -7,20 +7,14 @@
 - Data Science, Data Analysis 👩‍🏫
 - Artifitial Intelligence (Machine Learning, Deep Learning)
   - Recommender System 💻❤️
-- Technical Writing
 
 ## 👩‍💻 Technical Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=PyTorch&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
-<img src="https://img.shields.io/badge/openCV-5C3EE8?style=flat-square&logo=openCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
 
 
 ## 🚶‍♀️ Relevant Experiences
-- 2022.07 ~ 진행중: 패스트캠퍼스 DT교육팀 실습조교
 - 2023.06 ~ 2024.03: 프롭테크 회사 내 데이터 분석 및 정제 담당
-- 2023.03 ~ 2023.06: 가짜연구소 6기 러너 - LightGBM 온라인 문서 번역
 - 2022.01 ~ 2022.06: 네이버 AI Tech 부스트캠프 (추천 시스템 트랙)
 - 2021.08 ~ 2021.10: 포스코 청년 AI·Big Data 아카데미
 
