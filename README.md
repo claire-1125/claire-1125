@@ -4,7 +4,7 @@
 [My Life's Map](https://whimsical.com/my-life-s-map-LpcJCUoafNUg5QFApS4sqh)
 
 ## 🙆‍♀️ Interests
-- Data Science, Data Analysis 👩‍🏫
+- Data Science, Data Analysis, Data Engineering 👩‍🏫
 - Artifitial Intelligence (Machine Learning, Deep Learning)
   - Recommender System 💻❤️
 
