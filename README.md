@@ -29,7 +29,7 @@
   - 졸업 프로젝트: 객체검출 및 깊이 정보 융합기반 실시간 위험상황 알림 서비스 연구
  
 
-## My Blog
+## 🗒️ My Blog
 [현재 블로그](https://velog.io/@claire1125/posts)  
 [예전 블로그(이관중)](https://claire-1125.github.io/)  
 
