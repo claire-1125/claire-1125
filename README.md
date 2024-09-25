@@ -6,10 +6,11 @@
 
 
 ## 🙆‍♀️ Interests
-- Data Science, Data Analysis, Data Engineering 👩‍🏫
+- Data Science, Data Analysis, Data Engineering
 - Artifitial Intelligence (Machine Learning, Deep Learning)
-  - Recommender System 💻❤️
+  - Recommender System
 - Product Analytics, Marketing Analytics (e.g. Funnel Analysis, Cohort Analysis)
+- Technical Writing
 
 
 ## 👩‍💻 Technical Skills
