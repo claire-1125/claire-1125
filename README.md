@@ -8,7 +8,6 @@
 ## 🙆‍♀️ Interests
 - Data Science, Data Analysis, Data Engineering
 - Artifitial Intelligence (Machine Learning, Deep Learning)
-  - Recommender System
 - Product Analytics, Marketing Analytics (e.g. Funnel Analysis, Cohort Analysis)
 - Technical Writing
 
@@ -28,3 +27,9 @@
 숙명여자대학교 (2017.03 ~ 2021.08)
 - 공학사: IT 공학전공 (복수전공)
   - 졸업 프로젝트: 객체검출 및 깊이 정보 융합기반 실시간 위험상황 알림 서비스 연구
+ 
+
+## My Blog
+[현재 블로그](https://velog.io/@claire1125/posts)  
+[예전 블로그(이관중)](https://claire-1125.github.io/)  
+
