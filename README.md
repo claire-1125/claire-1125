@@ -1,7 +1,7 @@
 # JeongBeen Seo
 
 ## 🗺 My Life's Map
-[My Life's Map: Essay Type](https://velog.io/@claire1125/%EA%B8%80%EB%98%90-10%EA%B8%B0-%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84)
+[My Life's Map: Essay Type](https://velog.io/@claire1125/%EA%B8%80%EB%98%90-10%EA%B8%B0-%EC%82%B6%EC%9D%98-%EC%A7%80%EB%8F%84)  
 [My Life's Map: Mind Map Type](https://whimsical.com/my-life-s-map-LpcJCUoafNUg5QFApS4sqh)
 
 
