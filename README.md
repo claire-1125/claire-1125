@@ -6,7 +6,7 @@
 - Technical Writing
 
 ## 👩‍💻 Technical Skills
-<img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=Google BigQuery&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=plat-sqaure&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=Google BigQuery&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=plat-sqaure&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> 
 
 ## 🚶‍♀️ Relevant Experiences
 - 2024.09 ~ 2025.03: 글또 10기
