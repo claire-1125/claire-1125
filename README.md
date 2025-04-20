@@ -19,4 +19,4 @@
 - 공학사: IT 공학전공 (복수전공)
  
 ## 🗒️ My Blog
-[velog 개발 블로그]("https://velog.io/@claire1125/posts")
+[velog 개발 블로그](https://velog.io/@claire1125/posts)
