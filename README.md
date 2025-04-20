@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=BigQuery&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly-3F4F75.svg?style=plat-sqaure&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> 
 
 ## 🚶‍♀️ Relevant Experiences
-- 2024.10 ~ 2024.11: [인프런 BigQuery 활용편 강의 수료](https://bit.ly/bigquery_certificate)
+- 2024.10 ~ 2024.11: [인프런 BigQuery 활용편 강의 수료](https://bit.ly/bigquery_certificate){:target="_blank"}
 - 2023.06 ~ 2024.03: 프롭테크 회사 내 데이터 분석 및 정제 담당
 - 2022.01 ~ 2022.06: 네이버 부스트캠프 AI Tech (추천 시스템 트랙)
 - 2021.07 ~ 2021.10: 포스코 청년 AI·Big Data 아카데미
@@ -19,4 +19,4 @@
 - 공학사: IT 공학전공 (복수전공)
  
 ## 🗒️ My Blog
-[velog 개발 블로그](https://velog.io/@claire1125/posts)  
+[velog 개발 블로그](https://velog.io/@claire1125/posts){:target="_blank"} 
